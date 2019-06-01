@@ -1,3 +1,5 @@
+/* Disclaimer: These examples and comments from these programs are from
+   C#7 in a Nutshell and are written for learning purposes only. */
 using System;                           // Importing Namespace
 
 namespace A_First_CSharp_Program        // Namespace Declaration
